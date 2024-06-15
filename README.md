@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Kaviya89/LeetCode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviya89/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaviya89/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 # Prefix Sum
 |  |
@@ -37,3 +38,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaviya89/LeetCode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
+# Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
