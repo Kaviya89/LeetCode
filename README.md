@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kaviya89/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kaviya89/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Kaviya89/LeetCode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Kaviya89/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviya89/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaviya89/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Kaviya89/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 # Counting
 |  |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaviya89/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Kaviya89/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
 # Math
 |  |
