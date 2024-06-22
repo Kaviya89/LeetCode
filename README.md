@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviya89/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Kaviya89/LeetCode/tree/master/1013-fibonacci-number) |
 # Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/Kaviya89/LeetCode/tree/master/1013-fibonacci-number) |
 # Binary Search
 |  |
 | ------- |
@@ -65,3 +67,11 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kaviya89/LeetCode/tree/master/0287-find-the-duplicate-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kaviya89/LeetCode/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kaviya89/LeetCode/tree/master/1013-fibonacci-number) |
