@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviya89/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Kaviya89/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kaviya89/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Kaviya89/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaviya89/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@
 | [0075-sort-colors](https://github.com/Kaviya89/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaviya89/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Kaviya89/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kaviya89/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Math
 |  |
