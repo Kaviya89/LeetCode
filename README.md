@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kaviya89/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Kaviya89/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaviya89/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaviya89/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Prefix Sum
