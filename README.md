@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Kaviya89/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaviya89/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviya89/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Kaviya89/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kaviya89/LeetCode/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaviya89/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Kaviya89/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kaviya89/LeetCode/tree/master/0268-missing-number) |
 # Divide and Conquer
@@ -83,3 +85,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kaviya89/LeetCode/tree/master/1013-fibonacci-number) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kaviya89/LeetCode/tree/master/0128-longest-consecutive-sequence) |
