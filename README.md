@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/Kaviya89/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaviya89/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaviya89/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Kaviya89/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0189-rotate-array](https://github.com/Kaviya89/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kaviya89/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kaviya89/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Kaviya89/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 # Math
 |  |
 | ------- |
@@ -89,3 +91,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kaviya89/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+# Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Kaviya89/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
