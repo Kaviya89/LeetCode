@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/Kaviya89/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaviya89/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kaviya89/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kaviya89/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kaviya89/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaviya89/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaviya89/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -36,6 +37,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kaviya89/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kaviya89/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kaviya89/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 # Divide and Conquer
 |  |
 | ------- |
