@@ -19,6 +19,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kaviya89/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kaviya89/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kaviya89/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Kaviya89/LeetCode/tree/master/0645-set-mismatch) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaviya89/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kaviya89/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kaviya89/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -40,6 +41,7 @@
 | [0268-missing-number](https://github.com/Kaviya89/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kaviya89/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kaviya89/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Kaviya89/LeetCode/tree/master/0645-set-mismatch) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0088-merge-sorted-array](https://github.com/Kaviya89/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kaviya89/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Kaviya89/LeetCode/tree/master/0645-set-mismatch) |
 # Counting
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Kaviya89/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kaviya89/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Kaviya89/LeetCode/tree/master/0645-set-mismatch) |
 # Recursion
 |  |
 | ------- |
