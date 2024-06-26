@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Kaviya89/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Kaviya89/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Kaviya89/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Kaviya89/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kaviya89/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaviya89/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviya89/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kaviya89/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaviya89/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Kaviya89/LeetCode/tree/master/1013-fibonacci-number) |
 # Hash Table
@@ -47,6 +49,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kaviya89/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kaviya89/LeetCode/tree/master/0169-majority-element) |
 # Sorting
 |  |
