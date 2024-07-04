@@ -115,6 +115,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kaviya89/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kaviya89/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kaviya89/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaviya89/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -145,9 +146,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kaviya89/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kaviya89/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kaviya89/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Kaviya89/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
