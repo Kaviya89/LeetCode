@@ -8,8 +8,8 @@ class Solution {
             if(nums[mid]==target){
                 return mid;
             }
-            else if(nums[mid]>target){
-            end = mid-1;
+            if(nums[mid]>target){
+                end = mid-1;
             }
             else{
                 start = mid+1;
