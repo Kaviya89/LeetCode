@@ -168,10 +168,12 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kaviya89/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2032-largest-odd-number-in-string](https://github.com/Kaviya89/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kaviya89/LeetCode/tree/master/0048-rotate-image) |
+| [2032-largest-odd-number-in-string](https://github.com/Kaviya89/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kaviya89/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Kaviya89/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
