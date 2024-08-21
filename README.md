@@ -186,4 +186,5 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Kaviya89/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Kaviya89/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
