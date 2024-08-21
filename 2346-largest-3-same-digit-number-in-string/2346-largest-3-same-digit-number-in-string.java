@@ -6,8 +6,8 @@ class Solution {
         for(int i=0; i<n-2; i++){
             if(num.charAt(i)==num.charAt(i+1) && num.charAt(i+1)==num.charAt(i+2)){
                 String a = num.substring(i,i+3);
-                if(Integer.valueOf(a)>=c){
-                    c = Integer.valueOf(a);
+                if(Integer.parseInt(a)>=c){
+                    c = Integer.parseInt(a);
                     ans = a;
                 }
             }
