@@ -8,7 +8,9 @@ class Solution {
                 sum2 += nums[i];
             }
         }
-        if(sum1==sum2) return false;
-        else return true;
+        if(sum1==sum2){
+            return false;
+        }
+         return true;
     }
 }
