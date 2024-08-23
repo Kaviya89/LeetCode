@@ -127,6 +127,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kaviya89/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Kaviya89/LeetCode/tree/master/0792-binary-search) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kaviya89/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Kaviya89/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Kaviya89/LeetCode/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/Kaviya89/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Kaviya89/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
